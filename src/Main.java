@@ -16,5 +16,6 @@ public class Main {
         char curso = 'A';
         System.out.println("estado"+activo);
         System.out.println("curso"+curso);
+        //Puedes subir archivos con git status para ver archivos
     }
 }
